@@ -1,0 +1,13 @@
+
+
+.container{
+ box-sizing: content-box;
+
+/* padding: 50px; */
+text-align: center;
+background-color: rgb(248, 248, 248);
+box-shadow: 5px 1px 3px black;
+}
+.input-group{
+    gap: 5px;
+}
